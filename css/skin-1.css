@@ -60,7 +60,7 @@
 }
 
 .service-box-style2 .service-title-large2 a:after {
-  background-color: #db5200;
+  background-color: #f9a32a !important;
 }
 
 .box:hover {
@@ -457,15 +457,15 @@ STEP NUMBER
 
 /*--Breadcrumb --*/
 .wt-breadcrumb li a:hover {
-  color: #db5200;
+  color: #f9a32a;
 }
 
 .wt-breadcrumb li:after {
-  color: #db5200;
+  color: #f9a32a;
 }
 
 .wt-breadcrumb li:last-child {
-  color: #db5200;
+  color: #f9a32a;
 }
 
 /*---Owl dots button---*/
